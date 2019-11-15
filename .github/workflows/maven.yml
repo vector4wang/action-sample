@@ -1,3 +1,4 @@
+name: action-sample-ci
 on:
   push:
     branches: master
